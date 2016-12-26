@@ -1,0 +1,33 @@
+{
+  "name": "angular-quickstart",
+  "version": "1.0.0",
+  "description": "A simple Angular2 app run with Webpack.",
+  "scripts": {
+    "start": "webpack-dev-server --inline"
+  },
+  "keywords": [],
+  "author": "Nguyen Tran",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/common": "~2.4.0",
+    "@angular/compiler": "~2.4.0",
+    "@angular/core": "~2.4.0",
+    "@angular/forms": "~2.4.0",
+    "@angular/http": "~2.4.0",
+    "@angular/platform-browser": "~2.4.0",
+    "@angular/platform-browser-dynamic": "~2.4.0",
+    "@angular/router": "~3.4.0",
+    "angular-in-memory-web-api": "~0.2.2",
+    "core-js": "^2.4.1",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "5.0.1",
+    "zone.js": "^0.7.4"
+  },
+  "devDependencies": {
+    "ts-loader": "^1.3.3",
+    "typescript": "^2.1.4",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "repository": {}
+}
