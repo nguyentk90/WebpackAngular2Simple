@@ -2,10 +2,10 @@
 
 # Install
 ```
-npm i
+$ npm i
 ```
 
 # Run
 ```
-npm start
+$ npm start
 ```
